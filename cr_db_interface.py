@@ -1,7 +1,7 @@
 '''
 Module Name: cr_db_interface
 Basic Purpose: To create basic interface functions for conference room database in sqlite3
-Owner : Bhargav Upadhyay (11527638)
+Owner : Bhargav Upadhyay
 Started: 20th septmber, 2016
 Basic functions: Create new table, create new virtual table using fts4, add new column, add new raw
 Version: 1.0
